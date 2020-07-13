@@ -4,6 +4,9 @@ This repository is based on https://github.com/j96w/DenseFusion and https://gith
 
 If you are a person using Docker, https://hub.docker.com/repository/docker/choo2969/ros-densefusion
 
+segmentation weight file [link](https://drive.google.com/drive/folders/1fRie5jwj9Liuwvs64_Mru8wUCy65Os0_?usp=sharing)
+densefusion weight file[link](https://github.com/j96w/DenseFusion)
+
 ~~~
 $ docker pull choo2969/ros-densefusion
 ~~~
